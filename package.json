@@ -189,9 +189,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmRXefkwjreRT6XfYh3Ag4hsVnWBbpcUicGJPcg8TWbhBK",
+      "hash": "QmWEwoF9gZAGNevKxFo4q216DCo9ieui5ZAe5jSZCdesck",
       "name": "go-libp2p-floodsub",
-      "version": "0.9.23"
+      "version": "0.9.24"
     },
     {
       "author": "whyrusleeping",
@@ -524,9 +524,9 @@
     },
     {
       "author": "stebalien",
-      "hash": "QmZXeeaAaSUCCizUfvZHK4BM8po7xJHFGodfYAQuDfHvwt",
+      "hash": "QmQYkj73ieX5qYTvY2H2fLhfh48FtUZhBcQVJRYgd3ZRnh",
       "name": "go-libp2p-pubsub-router",
-      "version": "0.3.9"
+      "version": "0.3.10"
     },
     {
       "author": "Stebalien",

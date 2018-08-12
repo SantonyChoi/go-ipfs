@@ -14,9 +14,9 @@ import (
 	e "github.com/ipfs/go-ipfs/core/commands/e"
 
 	cmdkit "gx/ipfs/QmPVqQHEfLpqK7JLCsUkyam7rhuV3MAeZ9gueQQCrBwCta/go-ipfs-cmdkit"
-	floodsub "gx/ipfs/QmRXefkwjreRT6XfYh3Ag4hsVnWBbpcUicGJPcg8TWbhBK/go-libp2p-floodsub"
 	cmds "gx/ipfs/QmUQb3xtNzkQCgTj2NjaqcJZNv2nfSSub2QAdy9DtQMRBT/go-ipfs-cmds"
 	blocks "gx/ipfs/QmVzK524a2VWLqyvtBeiHKsUAWYgeAk4DBeZoY7vpNPNRx/go-block-format"
+	floodsub "gx/ipfs/QmWEwoF9gZAGNevKxFo4q216DCo9ieui5ZAe5jSZCdesck/go-libp2p-floodsub"
 	pstore "gx/ipfs/QmYLXCWN2myozZpx8Wx4UjrRuQuhY3YtWoMi6SHaXii6aM/go-libp2p-peerstore"
 	cid "gx/ipfs/QmYVNvtQkeZ6AKSwDrjQTs432QtL6umrrK41EBq3cu7iSP/go-cid"
 )

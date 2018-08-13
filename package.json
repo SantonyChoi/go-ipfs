@@ -524,9 +524,9 @@
     },
     {
       "author": "stebalien",
-      "hash": "QmQYkj73ieX5qYTvY2H2fLhfh48FtUZhBcQVJRYgd3ZRnh",
+      "hash": "QmdBVJHNUMhWJyWWcHvNmiJmJVmzuRQ4EMFXqAQaYQT6Tk",
       "name": "go-libp2p-pubsub-router",
-      "version": "0.3.10"
+      "version": "0.3.11"
     },
     {
       "author": "Stebalien",
